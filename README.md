@@ -32,7 +32,7 @@ Provides a set of recommended aspect ratios for Qwen-Image, along with a "Custom
 1.  启动 ComfyUI。
 2.  打开 **ComfyUI Manager** 菜单。
 3.  点击 **"Install Custom Nodes"**。
-4.  搜索 `Qwen Image Toolkit`。
+4.  搜索 `Qwen-Image-Toolkit`。
 5.  点击 **"Install"** 按钮，安装完成后重启 ComfyUI。
 
 ### 方法 2: 手动安装 (Git Clone)
