@@ -42,7 +42,7 @@ Provides a set of recommended aspect ratios for Qwen-Image, along with a "Custom
     ```
 2.  克隆本仓库：
     ```bash
-    git clone [https://github.com/CX330V/Qwen Image Toolkit](https://github.com/Cx330v/Qwen-Image-Toolkit).git
+    git clone https://github.com/Cx330v/Qwen-Image-Toolkit.git
     ```
 3.  重启 ComfyUI。
 
