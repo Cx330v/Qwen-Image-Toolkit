@@ -10,19 +10,19 @@ A collection of essential nodes designed to seamlessly integrate Alibaba's Qwen-
 
 ### 1. Qwen-Image LoRA 加载器
 A specialized LoRA loader that correctly handles the key conversion for Qwen-Image LoRAs. It features an auto-detect mechanism for the `alpha` value.
-![LoRA Loader Node](images/qwen_lora_loader.png)
+![LoRA Loader Node](example/loader.png)
 
 ### 2. Qwen-Image 提示词
 A prompt styler node that quickly appends professional-grade keywords to your prompt, allowing you to easily switch between various artistic styles like cinematic, photorealistic, anime, etc.
-![Prompt Styler Node](images/qwen_prompt_styler.png)
+![Prompt Styler Node](example/prompt.png)
 
 ### 3. Qwen-Image 图像比例
 Provides a set of recommended aspect ratios for Qwen-Image, along with a "Custom" option for manual input. Ensures output dimensions are valid.
-![Aspect Ratio Node](images/qwen_aspect_ratio.png)
+![Aspect Ratio Node](example/latent.png)
 
 ## Example Workflow
 
-![Example Workflow](images/workflow_example.png)
+![Example Workflow](images/workflow.png)
 
 ---
 
