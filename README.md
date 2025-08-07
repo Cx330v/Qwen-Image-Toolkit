@@ -22,7 +22,7 @@ Provides a set of recommended aspect ratios for Qwen-Image, along with a "Custom
 
 ## Example Workflow
 
-![Example Workflow](images/workflow.png)
+![Example Workflow](example/workflow.png)
 
 ---
 
